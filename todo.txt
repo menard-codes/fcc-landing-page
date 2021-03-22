@@ -1,0 +1,6 @@
+
+[ ] Build Skeleton of site from user stories
+    [ ] get logo for site
+[ ] Style the site
+[ ] Test the site
+
