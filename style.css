@@ -1,8 +1,42 @@
 
+/* media query for mobile */
+/* use flexbox */
 
-/* CSS:
-    always on top
-    media-query
-    flexbox
-*/
+#nav-bar {
+    height: 10vh;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    position: fixed;
+    top: 0;
+}
 
+img {
+    max-width: auto;
+    height: 100%;
+}
+
+.logo {
+    grid-area: 1/1/2/2;
+    height: 9vh;
+    width: 100%;
+}
+
+.nav-links {
+    grid-area: 1/2/2/3;
+    height: 10vh;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 4fr 2fr 1.7fr 2fr;
+}
+
+.link {
+    align-self: center;
+}
+
+nav a {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: black;
+    font-size: 25px;
+}
