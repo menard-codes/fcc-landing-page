@@ -1,6 +1,59 @@
 
-[ ] Build Skeleton of site from user stories
-    [ ] get logo for site
+[x] Build Skeleton of site from user stories
+    [x] get logo for site
+[ ] Layout
+    [ ] navbar
+        [ ] Logo size is responsize and have limit size
+        [ ] Logo always on left
+        [ ] Logo always links to Home
+        [ ] Nav-links Are alwyas on right
+        [ ] Nav bar is fixed
+    [ ] CTA Form
+        [ ] One Giant Header
+        [ ] Email input field
+        [ ] Submit Button
+        [ ] Should use the freecodecamp link for action when form submits
+    [ ] Info Area
+        [ ] Info headline (h2)
+        [ ] Info description (bullet points)
+        [ ] Video Embed
+            [ ] Border
+            [ ] Controlled size
+        [ ] Video and Text Info were aligned horizontally
+    [ ] Price Tiers
+        [ ] Intermediate Tier
+            [ ] Tier Box
+            [ ] Tier Title and title container
+            [ ] tier features
+            [ ] tier purchase button
+        [ ] Recommended Tier
+            [ ] Tier Box
+            [ ] Tier Title and title container
+            [ ] tier features
+            [ ] tier purchase button
+        [ ] Professional Tier
+            [ ] Tier Box
+            [ ] Tier Title and title container
+            [ ] tier features
+            [ ] tier purchase button
+        [ ] Tiers must be aligned horizontally
+    [ ] Customer Review
+        [ ] Person 1
+            [ ] Review Box
+            [ ] Customer profile pic
+            [ ] customer name
+            [ ] customer description
+        [ ] Person 2
+            [ ] Review Box
+            [ ] Customer profile pic
+            [ ] customer name
+            [ ] customer description
+        [ ] Person 3
+            [ ] Review Box
+            [ ] Customer profile pic
+            [ ] customer name
+            [ ] customer description
+        [ ] Reviews aligned horizontally
 [ ] Style the site
 [ ] Test the site
 
