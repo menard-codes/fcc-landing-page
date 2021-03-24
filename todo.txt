@@ -1,13 +1,19 @@
 
+
+>>>>>>> NOTE: ALWAYS USE GIT VERSION CONTROL <<<<<<<<<<<<
+
+
 [x] Build Skeleton of site from user stories
     [x] get logo for site
 [ ] Layout
     [ ] navbar
-        [ ] Logo size is responsize and have limit size
-        [ ] Logo always on left
-        [ ] Logo always links to Home
-        [ ] Nav-links Are alwyas on right
-        [ ] Nav bar is fixed
+        [x] Logo size is responsize and have limit size
+            [ ] Mobile Version
+        [x] Logo always on left
+        [x] Logo always links to Home
+        [x] Nav-links Are alwyas on right
+            [ ] Mobile Version
+        [x] Nav bar is fixed at top
     [ ] CTA Form
         [ ] One Giant Header
         [ ] Email input field

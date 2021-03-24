@@ -2,6 +2,9 @@
 /* media query for mobile */
 /* use flexbox */
 
+
+
+/* navbar */
 #nav-bar {
     height: 10vh;
     width: 100%;
@@ -27,7 +30,7 @@ img {
     height: 10vh;
     width: 100%;
     display: grid;
-    grid-template-columns: 4fr 2fr 1.7fr 2fr;
+    grid-template-columns: 4fr 2fr 1.65fr 2fr;
 }
 
 .link {
@@ -40,3 +43,6 @@ nav a {
     color: black;
     font-size: 25px;
 }
+/* end of navbar */
+
+
