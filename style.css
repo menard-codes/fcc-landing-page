@@ -2,6 +2,10 @@
 /* media query for mobile */
 /* use flexbox */
 
+body {
+    margin-top: 10vh;
+}
+
 
 
 /* navbar */
@@ -44,5 +48,59 @@ nav a {
     font-size: 25px;
 }
 /* end of navbar */
+
+
+#focus {
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 3vw;
+    margin: 100px 250px;
+    display: grid;
+}
+
+#title h1 {
+    margin-bottom: 0;
+}
+
+#email-field {
+    justify-self: center;
+    width: 74%;
+}
+
+#email {
+    padding: 20px 5px;
+    width: 100%;
+    border-radius: 0;
+    border: 5px solid black;
+    font-size: 30px;
+}
+
+
+#email-field button {
+    width: 102%;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 10px;
+    border: transparent;
+    background-color: rgb(228, 169, 43);
+    font-family: 'Dela Gothic One', cursive;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+#email-field button:hover {
+    background-color: rgb(255, 174, 0);;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
